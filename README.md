@@ -2,7 +2,7 @@
 
 Written in Python 3.10 using Pygame 
 
-Controls:
+Controls:\
 ESC - Quit Game\
 w - Jump\
 s - Crouch\
